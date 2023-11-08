@@ -1,0 +1,5 @@
+Student _id : 2313113028
+Student Name : Summer
+Major : IT
+Level : 1 
+Faculty: Information Technology
