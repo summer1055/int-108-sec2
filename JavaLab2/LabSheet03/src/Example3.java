@@ -20,8 +20,9 @@ public class Example3 {
 		}
 		else 
 		{		bmiCategory="Obesity";
+		
 		}
-		JOptionPane.showMessageDialog(null, "bmi = "+ String.format("%.1f",bmi)+ "\nyou are "+bmiCategory);
+		JOptionPane.showMessageDialog(null, "bmi = "+ String.format("%.1f",bmi)+ "\nyou are "+bmiCategory,"BMI",JOptionPane.WARNING_MESSAGE);
 				
 
 	}
